@@ -9,7 +9,7 @@ Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science,
 <a href="https://github.com/subhodipbiswas/"><img align="left" alt="GitHub" width="24px" src="https://simpleicons.org/icons/github.svg"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=IpBEFSkAAAAJ&view_op=list_works&sortby=pubdate"><img align="left" alt="Google Scholar" width="24px" src="https://simpleicons.org/icons/googlescholar.svg"></a>
 <a href="https://www.researchgate.net/profile/Subhodip-Biswas"><img align="left" alt="Research Gate" width="24px" src="https://simpleicons.org/icons/researchgate.svg"></a>
-<p> ![](https://komarev.com/ghpvc/?username=subhodipbiswas&color=blueviolet) </p>
+![](https://komarev.com/ghpvc/?username=subhodipbiswas&color=lightgrey)
 
 
 - 🤔 I’m looking for **full-time data/research scientist** roles in industrial R&D
