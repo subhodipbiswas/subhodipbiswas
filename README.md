@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science, Virginia Tech. Experienced researcher with expertise in derivate-free optimization, spatiotemporal data mining, graph algorithms, machine learning and urban computing. Expected to graduate in summer of 2021.
+Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science, Virginia Tech. Experienced researcher with expertise in derivate-free optimization, spatiotemporal data mining, graph algorithms, machine learning and urban computing. Expected to graduate in the Fall of 2021.
 
 
 <a href="https://linkedin.com/in/subhodip-biswas/"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
