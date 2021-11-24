@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science, Virginia Tech. Experienced researcher with expertise in derivate-free optimization, spatiotemporal data mining, graph algorithms, machine learning and urban computing. Expected to graduate in the Spring of 2022.
+Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science, Virginia Tech. Experienced researcher with expertise in applied machine learning,  derivate-free optimization, graph algorithms, spatiotemporal data mining and urban anaytics. Expected to graduate in the early Spring, 2022.
 
 
 <a href="https://linkedin.com/in/subhodip-biswas/"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
@@ -10,7 +10,7 @@ Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science,
 ![](https://komarev.com/ghpvc/?username=subhodipbiswas&color=lightgrey)
 
 
-- 🤔 I’m looking for **full-time data/research scientist** roles in industrial R&D
+- 🤔 I’m looking for **full-time data/applied/research/AI/ML scientist** roles in industrial R&D
 
 
 - 📫 How to reach me: The best way to reach me is [email](mailto:subhodip@cs.vt.edu)
