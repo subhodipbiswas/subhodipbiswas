@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science, Virginia Tech. Experienced researcher with expertise in applied machine learning,  derivate-free optimization, graph algorithms, spatiotemporal data mining and urban anaytics. Expected to graduate in the early Spring, 2022.
+Hi! This is Subhodip. Presently I am a AI Verification Engineer at Zoox. Previously, I received by PhD in Department of Computer Science from Virginia Tech under the supervision of Naren Ramakrishnan. I have research experience in applied machine learning,  derivate-free optimization, graph algorithms, spatiotemporal data mining and urban anaytics.
 
 
 <a href="https://linkedin.com/in/subhodip-biswas/"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
@@ -10,10 +10,7 @@ Hi! I am Subhodip Biswas, a PhD candidate at the Department of Computer Science,
 ![](https://komarev.com/ghpvc/?username=subhodipbiswas&color=lightgrey)
 
 
-- 🤔 I’m looking for **full-time data/applied/research/AI/ML scientist** roles in industrial R&D
-
-
-- 📫 How to reach me: The best way to reach me is [email](mailto:subhodip@cs.vt.edu)
+- 📫 How to reach me: The best way to reach me is [email](mailto:subhodipniswas@vt.edu)
 
 - 😄 Pronouns: he/him
 
