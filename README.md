@@ -10,7 +10,7 @@ Hi! This is Subhodip. Presently I am a AI Verification Engineer at Zoox. Previou
 ![](https://komarev.com/ghpvc/?username=subhodipbiswas&color=lightgrey)
 
 
-- 📫 How to reach me: The best way to reach me is [email](mailto:subhodipniswas@vt.edu)
+- 📫 How to reach me: The best way to reach me is [email](mailto:subhodip@vt.edu)
 
 - 😄 Pronouns: he/him
 
