@@ -18,8 +18,6 @@ Hi! This is Subhodip. Presently I am a AI Verification Engineer at Zoox. Previou
 - One of my PhD dissertation works received the *best-paper award* at [ACM SIGSPATIAL 2020](https://sigspatial2020.sigspatial.org/program/)
 - 🔭 I received the *Journeyman Fellowship* sponsored by [DEVCOM Army Research Laboratory](https://www.orau.org/arlfellowship/default.htm) Research Associateship Program working on developing [Bayesian Optimization](https://distill.pub/2020/bayesian-optimization/) techniques for applications like hyperparameter optimization, expensive engineering simulations, and so on.
 
-<img src = 'https://github-readme-streak-stats.herokuapp.com/?user=subhodipbiswas&show_icons=true&count_private=true&locale=en&theme=buefy&layout=compact' align='left'/><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subhodipbiswas&show_icons=true&count_private=true&locale=en&theme=buefy&layout=compact" align='right'>
-
 
 <!--
 **subhodipbiswas/subhodipbiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
