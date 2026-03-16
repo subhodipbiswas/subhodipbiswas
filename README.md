@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Hi! This is Subhodip. Presently I am a Machine Learning Engineer at Veryfi, Inc. working on fraud detection. Previously, I received my PhD in Computer Science from Virginia Tech under the supervision of Naren Ramakrishnan. I have research experience in applied machine learning,  derivate-free optimization, graph algorithms, spatiotemporal data mining, and urban analytics.
+Hi! This is Subhodip. Presently I am a Machine Learning Researcher at Cisco ThousandEyes, Inc. working on time-series anomaly detection. Previously, I received my PhD in Computer Science from Virginia Tech under the supervision of Naren Ramakrishnan. I have research experience in applied machine learning,  derivate-free optimization, graph algorithms, spatiotemporal data mining, and urban analytics.
 
 
 <a href="https://linkedin.com/in/subhodip-biswas/"><img align="left" alt="LinkedIn" width="24px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png"></a>
